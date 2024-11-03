@@ -1,0 +1,5 @@
+C:\Users\rasim\OneDrive\Masaüstü\Elvin\Filestream\Filestream\obj\Debug\net8.0\Filestream.csproj.AssemblyReference.cache
+C:\Users\rasim\OneDrive\Masaüstü\Elvin\Filestream\Filestream\obj\Debug\net8.0\Filestream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasim\OneDrive\Masaüstü\Elvin\Filestream\Filestream\obj\Debug\net8.0\Filestream.AssemblyInfoInputs.cache
+C:\Users\rasim\OneDrive\Masaüstü\Elvin\Filestream\Filestream\obj\Debug\net8.0\Filestream.AssemblyInfo.cs
+C:\Users\rasim\OneDrive\Masaüstü\Elvin\Filestream\Filestream\obj\Debug\net8.0\Filestream.csproj.CoreCompileInputs.cache
